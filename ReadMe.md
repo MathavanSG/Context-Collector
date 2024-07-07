@@ -1,10 +1,12 @@
 # Context Collector
 
-Context Collector is a Python script designed to gather and concatenate
 
-Uploading Screen%20Recording%202024-07-07%20at%206.mp4…
+https://github.com/MathavanSG/Context-Collector/assets/121884337/1ce23ada-a20a-48c7-b7e9-ce46257020e5
 
- all Python files within a specified directory. This tool is particularly useful for projects with multiple `.py` files spread across various directories, allowing you to compile them into a single file for easier analysis, context gathering, or documentation purposes.
+
+
+Context Collector is a Python script designed to gather and concatenate all Python files within a specified directory. This tool is particularly useful for projects with multiple `.py` files spread across various directories, allowing you to compile them into a single file for easier analysis, context gathering, or documentation purposes.
+
 
 ## Features
 
